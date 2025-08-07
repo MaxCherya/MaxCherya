@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi! I’m a **full-stack web developer** specializing in **Django** and **React (TypeScript)**. I love crafting modern, performant, and user-friendly applications — from backend APIs to polished frontends.
+Hi! I’m a **full-stack web developer**. I love crafting modern, performant, and user-friendly applications — from backend APIs to polished frontends.
 
 - 👨‍💼 Currently working at **Humanity & Inclusion**: building a secure internal platform for doctors (including mental health specialists) and social workers.
 - 🛠️ Freelancing for **Teslovel**, a local e-bike rental company — building their new website.
