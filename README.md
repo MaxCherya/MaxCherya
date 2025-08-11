@@ -35,7 +35,7 @@ Hi! I’m a **full-stack web developer**. I love crafting modern, performant, an
 ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=plastic&logo=redux&logoColor=white)
-![React/TanStack Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=plastic&logo=react-query&logoColor=white)
+![React or TanStack Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=plastic&logo=react-query&logoColor=white)
 
 ---
 
