@@ -47,6 +47,7 @@ Hi! I’m a **full-stack web developer**. I love crafting modern, performant, an
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=plastic&logo=prisma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white)
 
 ---
 
