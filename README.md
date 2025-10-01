@@ -3,7 +3,7 @@
 Hi! I’m a **full-stack web developer**. I love crafting modern, performant, and user-friendly applications — from backend APIs to polished frontends.
 
 - 👨‍💼 Currently working at **Humanity & Inclusion**: building a secure internal platform for doctors (including mental health specialists) and social workers.
-- 🛠️ Freelancing for **Teslovel**, a local e-bike rental company — building their new website.
+- 🛠️ Freelancing for local businesses — building their new website.
 - 🧩 Creator of [**everyday-components**](https://github.com/MaxCherya/everyday-components): an open-source UI library for reusable, efficient development.
 - 🤝 Open to new opportunities and collaborations in **web development** — reach out!
 
