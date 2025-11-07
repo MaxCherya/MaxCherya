@@ -4,7 +4,6 @@ Hi! I’m a **full-stack web developer**. I love crafting modern, performant, an
 
 - 👨‍💼 Currently working at **Humanity & Inclusion**: building a secure internal platform for doctors (including mental health specialists) and social workers.
 - 🛠️ Freelancing for local businesses — building their new websites.
-- 🧩 Creator of [**everyday-components**](https://github.com/MaxCherya/everyday-components): an open-source UI library for reusable, efficient development.
 - 🤝 Open to new opportunities and collaborations in **web development** — reach out!
 
 ---
@@ -110,13 +109,5 @@ Hi! I’m a **full-stack web developer**. I love crafting modern, performant, an
 | ![Stats](https://github-readme-stats.vercel.app/api?username=MaxCherya&theme=merko&hide_border=false&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxCherya&theme=merko&hide_border=false&layout=compact) |
 |--|--|
 | ![Streak](https://streak-stats.demolab.com?user=MaxCherya&theme=merko&hide_border=false) | ![Trophies](https://github-profile-trophy.vercel.app/?username=MaxCherya&theme=monokai&no-frame=false&margin-w=4) |
-
----
-
-### ✍️ Dev Quote  
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Most Contributed Repo  
-> ![](https://github-contributor-stats.vercel.app/api?username=MaxCherya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
