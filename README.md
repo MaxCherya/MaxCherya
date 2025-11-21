@@ -1,13 +1,3 @@
-# 💫 About Me
-
-Hi! I’m a **full-stack web developer**. I love crafting modern, performant, and user-friendly applications — from backend APIs to polished frontends.
-
-- 👨‍💼 Currently working at **Humanity & Inclusion**: building a secure internal platform for doctors (including mental health specialists) and social workers.
-- 🛠️ Freelancing for local businesses — building their new websites.
-- 🤝 Open to new opportunities and collaborations in **web development** — reach out!
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cherhykmaksym)
@@ -101,13 +91,5 @@ Hi! I’m a **full-stack web developer**. I love crafting modern, performant, an
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
-
----
-
-## 📈 GitHub Stats
-
-| ![Stats](https://github-readme-stats.vercel.app/api?username=MaxCherya&theme=merko&hide_border=false&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxCherya&theme=merko&hide_border=false&layout=compact) |
-|--|--|
-| ![Streak](https://streak-stats.demolab.com?user=MaxCherya&theme=merko&hide_border=false) | ![Trophies](https://github-profile-trophy.vercel.app/?username=MaxCherya&theme=monokai&no-frame=false&margin-w=4) |
 
 ---
